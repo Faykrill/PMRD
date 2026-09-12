@@ -1,0 +1,5 @@
+outs:
+- md5: 07281e34c0d9cad079b13734e90afc13
+  size: 1025215
+  hash: md5
+  path: grid_search_model.pkl
